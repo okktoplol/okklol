@@ -8,13 +8,22 @@ hello i'm Leonardo! I'm 14 and i like computer stuff in general, so i use arch l
 ### :star: setup:
 #### hardware:
 CPU: i5-6600 @ 3.30GHz
+
 GPU: GeForce GTX 960
+
 RAM: 16GB ddr4
+
 Resolution: 2560x1080@75hz
+
 #### software:
 Distro: Archcraft
+
 Editor: vscode
+
 WM: awesome
+
 Bar: Wibar
+
 Shell: zsh
+
 Terminal: Alacritty
